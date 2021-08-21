@@ -30,7 +30,7 @@ h2,h1{
     padding-top: 200px;
 }
 .header .slider .intro h1{
-    font-size: 60px;
+    font-size: 55px;
     width: 700px;
     margin: auto;
     border-top: 3px solid #fff;
@@ -39,7 +39,7 @@ h2,h1{
 
 }
 .header .slider .intro button{
-    font-size: 30px;
+    font-size: 29px;
     background: transparent;
     padding: 15px 30px ;
     font-weight: bold;
